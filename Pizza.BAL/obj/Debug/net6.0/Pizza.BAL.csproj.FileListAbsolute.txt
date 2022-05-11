@@ -1,0 +1,12 @@
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\bin\Debug\net6.0\Pizza.BAL.deps.json
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\bin\Debug\net6.0\Pizza.BAL.dll
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\bin\Debug\net6.0\Pizza.BAL.pdb
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\Pizza.BAL.csproj.AssemblyReference.cache
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\Pizza.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\Pizza.BAL.AssemblyInfoInputs.cache
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\Pizza.BAL.AssemblyInfo.cs
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\Pizza.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\Pizza.BAL.dll
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\refint\Pizza.BAL.dll
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\Pizza.BAL.pdb
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.BAL\obj\Debug\net6.0\ref\Pizza.BAL.dll

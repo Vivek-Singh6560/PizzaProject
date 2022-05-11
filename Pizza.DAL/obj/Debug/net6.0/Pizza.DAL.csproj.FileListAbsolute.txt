@@ -1,0 +1,12 @@
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\bin\Debug\net6.0\Pizza.DAL.deps.json
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\bin\Debug\net6.0\Pizza.DAL.dll
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\bin\Debug\net6.0\Pizza.DAL.pdb
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\Pizza.DAL.csproj.AssemblyReference.cache
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\Pizza.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\Pizza.DAL.AssemblyInfoInputs.cache
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\Pizza.DAL.AssemblyInfo.cs
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\Pizza.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\Pizza.DAL.dll
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\refint\Pizza.DAL.dll
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\Pizza.DAL.pdb
+C:\Users\Vivek\source\repos\PizzaProject\Pizza.DAL\obj\Debug\net6.0\ref\Pizza.DAL.dll
